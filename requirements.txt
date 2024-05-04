@@ -6,3 +6,4 @@ openpyxl
 jupyterlab
 ipykernel
 matplotlib
+pingouin
