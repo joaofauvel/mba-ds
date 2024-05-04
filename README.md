@@ -7,7 +7,7 @@ Coleção de notebooks referentes ao curso.
 - Crie um novo ambiente  
 	`python -m venv .venv`
 - Ative o ambiente
-	- Linux: `source .venv2/bin/activate`
+	- Linux: `source .venv/bin/activate`
 	- Windows: `.venv\Scripts\Activate.ps1`
 - Instale as dependências  
 	`pip install -r requirements.txt`
